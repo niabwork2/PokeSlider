@@ -1,4 +1,4 @@
-# myapp
+# PokeSlider
 
 A new Flutter project.
 
